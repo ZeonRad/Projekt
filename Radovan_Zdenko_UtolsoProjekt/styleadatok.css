@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    font-size: 3em;
+}
+.menu {         
+    font-size: 2.5em;     
+    background-color: gold;     
+    line-height: 80px; 
+    text-align: right;
+    
+}
+.menu a{      
+     color:purple;    
+     text-decoration: none;   
+     margin-right: 150px; 
+    }
+.menu a:visited{     
+        color: purple; 
+    }
+.menu a:hover{ 
+            color:  white; 
+     }
+.logo{
+    height: 350px;
+    display: block;
+    margin: auto;
+}
+table{
+    margin: auto;
+    border: 5px solid black;
+    font-size: 2em;
+    color: gold;
+
+}
+#tab{
+    background-color:purple;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+.kesz{
+    background-color: gold;
+    margin:0  ;
+    line-height: 80px;
+    text-align: center;
+    color: purple;
+    margin-top: 10px;
+    font-size: 2em;
+}

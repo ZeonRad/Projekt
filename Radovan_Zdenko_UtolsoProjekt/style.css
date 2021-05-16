@@ -1,0 +1,79 @@
+body{
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    font-size: 3em;
+}
+.menu {         
+    font-size: 2.5em;     
+    background-color: gold;     
+    line-height: 80px; 
+    text-align: right;
+    
+}
+.menu a{      
+     color:purple;    
+     text-decoration: none;   
+     margin-right: 150px; 
+    }
+.menu a:visited{     
+        color: purple; 
+    }
+.menu a:hover{ 
+            color:  white; 
+     }
+.logo{
+    height: 350px;
+    display: block;
+    margin: auto;
+}
+h2{
+    font-size:2em ;
+    margin-left: 50px;
+}
+p{
+    text-align: justify;
+    font-size:1.2em ;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+li{
+    text-align: justify;
+    font-size:1.2em ;
+    margin-left: 30px;
+
+}
+.palya{
+    height: 350px;
+    display: block;
+    margin: auto;
+}
+.st{
+    text-align: center;
+    margin: 0;
+    font-size: 2em;
+}
+span{
+    font-size: 2em;
+    
+    margin-left: 100px;
+}
+
+span a{
+    text-decoration: none;
+    color:black;
+}
+
+span a:hover{
+    color: purple;
+}
+.kesz{
+    background-color: gold;
+    margin:0  ;
+    line-height: 80px;
+    text-align: center;
+    color: purple;
+    margin-top: 10px;
+    font-size: 2em;
+}
